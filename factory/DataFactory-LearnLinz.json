@@ -1,0 +1,15 @@
+{
+	"name": "DataFactory-LearnLinz",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eacaae18-e4f4-40ad-92b9-6b2b5d986510",
+		"tenantId": "14c2883a-65eb-4498-a429-cd3c2256e333"
+	}
+}
